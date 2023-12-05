@@ -30,7 +30,7 @@ We came up with this idea based on the news of many climbers who had accidents d
 
 ## Contributor
 
-### Bangkit 2022 Capstone Team C22-OA01
+### Bangkit 2022 Capstone Team CH2-PS168
 
 - Muhammad Akbar Kasyfurrahman – (ML)	M301BSY0525	– Universitas Perjuangan Tasikmalaya
 - Rifqi Ilham Taufik – (ML)	M301BSY0527	– Universitas Perjuangan Tasikmalaya
