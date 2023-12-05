@@ -38,5 +38,5 @@ We came up with this idea based on the news of many climbers who had accidents d
 - Armeisa Ahda Maulida – (CC)	C120BSX4313	– Institut Teknologi Telkom Purwokerto
 - Muhammad Raihan Widagdo – (CC)	C283BSY3586	– Universitas Negeri Semarang
 - Luthfi Adilal Mahbub – (MD)	A301BSY2243	– Universitas Perjuangan Tasikmalaya
-- Opinur Destiana – (MD) A226BSX2598 – Universitas Jambi - [Active]
+- Opinur Destiana – (MD) A226BSX2598 – Universitas Jambi
 
